@@ -1,0 +1,23 @@
+# MATLAB build, project, and temporary files
+slprj/
+output/
+build/
+*.asv
+*.m~
+*.mxc
+*.mex*
+*.p
+
+# Local App Designer / Project settings
+*.prj
+.SimulinkProject/
+*_resources/
+
+# OS-generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Large compiled installers (hosted in Releases, not in the source tree)
+*.exe
+*.zip
