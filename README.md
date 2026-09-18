@@ -2,7 +2,7 @@
 
 A standalone, multi-equation 2D/3D graphing and numerical analysis GUI built with **MATLAB App Designer**.
 
-Developed as part of the academic project for **EEE-4402** by **Shoaib Mahbub** (ID: 230021325, Section C1).
+Developed as part of the academic project for **EEE-4416** by **Shoaib Mahbub** (ID: 230021325, Section C1).
 
 ---
 
