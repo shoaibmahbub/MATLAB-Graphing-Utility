@@ -30,9 +30,12 @@ Download the latest standalone installer from the [GitHub Releases](../../releas
 
 ## Project Structure
 
+```text
+.
 ├── src/
-│   └── app1.mlapp                 # Primary MATLAB App Designer source file
+│   └── app1.mlapp               # Primary MATLAB App Designer source file
 ├── docs/
-│   ├── Project_Description.pdf    # Initial project guidelines & prompt specifications
-├── README.md                      # Project documentation
-└── .gitignore                     # Git build ignore rules
+│   └── Project_Description.pdf  # Initial project guidelines & prompt specifications
+├── README.md                    # Project documentation
+└── .gitignore                   # Git build ignore rules
+```
